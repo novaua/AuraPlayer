@@ -1,0 +1,31 @@
+Aura Player License
+
+Copyright (c) 2026 Vitaly German. All rights reserved.
+
+1. Use. You may download, install and use Aura Player free of charge, on any number of
+   your own devices, for personal or commercial purposes.
+
+2. Restrictions. Except as allowed in section 3 or by applicable law, you may not sell,
+   rent, sublicense, redistribute or publish Aura Player or a modified copy of it, and you
+   may not modify, decompile or reverse engineer it. Linking to the official download page
+   is welcome.
+
+3. Third-party components. Aura Player includes third-party components that are licensed
+   under their own terms, listed in THIRD-PARTY-NOTICES.md and the "licenses" folder. Those
+   terms govern those components, and nothing in this license limits your rights under them.
+   In particular, you may replace or modify the LGPL libraries (LibVLC, LibVLCSharp, TagLib#
+   and FFmpeg) for your own use, and reverse engineer Aura Player as far as needed to debug
+   such modifications.
+
+4. Updates. Aura Player checks for and downloads updates from its official release
+   location. Automatic checks can be turned off in Settings.
+
+5. No warranty. Aura Player is provided "as is", without warranty of any kind, express or
+   implied, including the warranties of merchantability, fitness for a particular purpose
+   and non-infringement.
+
+6. Limitation of liability. In no event shall the author be liable for any claim, damages
+   or other liability arising from, out of or in connection with Aura Player or its use.
+
+7. Termination. This license ends automatically if you break its terms. Sections 3, 5 and 6
+   survive termination.
